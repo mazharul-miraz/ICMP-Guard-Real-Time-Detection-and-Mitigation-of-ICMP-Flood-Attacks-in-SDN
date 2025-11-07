@@ -34,7 +34,6 @@ hping3 -1 --flood 10.0.0.3
 
 Project Structure
 icmp-guard/
-│
 ├── icmp_guard.py         # Ryu controller application
 ├── visual.py              # Static visualization
 ├── icmp_host_log.csv     # Logging of ICMP activity
